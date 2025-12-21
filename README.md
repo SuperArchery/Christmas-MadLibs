@@ -9,7 +9,7 @@ The goal is to generate the most ridiculous and memorable Christmas story possib
 The game is hosted on GitHub Pages and is ready to play right now on any device!
 
 👉 Play The Game Here:
-(https://superarchery.github.io/Christmas-MadLibs/)
+(https://mad-city-libs.github.io/Christmas-MadLibs/))
 
 ---
 
